@@ -11,6 +11,6 @@
 
 - ⚡ Fun fact **I've got a medusa tattoo**
 
-<h3 align="left" style="display:flex;align-items:center">Connect with me: <a href="https://rb.gy/yvtp7"><img src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/></a><br/></h3>
+<h3 align="left"><p align="left">Connect with me:</p> <a align="left" href="https://rb.gy/yvtp7"><img src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/></a><br/></h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l9vanya&show_icons=true&locale=en&layout=compact" alt="l9vanya" /></p>
