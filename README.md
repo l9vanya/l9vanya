@@ -13,4 +13,4 @@
 
 <h3 align="left">Connect with me: <a href="https://rb.gy/yvtp7"><img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/></a><br/></h3>
 
-<p><i <a href="https://rb.gy/yvtp7"><img align="left" src="https://img.shields.io/badge/resume-30302f?style=for-the-badge"/></a>mg align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l9vanya&show_icons=true&locale=en&layout=compact" alt=></p>"l9vanya" /
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l9vanya&show_icons=true&locale=en&layout=compact" alt="l9vanya" /></p>
